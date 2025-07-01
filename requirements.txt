@@ -52,3 +52,4 @@ typing_extensions==4.14.0
 urllib3==2.5.0
 yarl==1.20.1
 zstandard==0.23.0
+scikit-learn==1.7.0
