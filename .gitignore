@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+*.pyc
+*.ipynb_checkpoints/
+.DS_Store
+env/
+venv/
+*.egg-info/
+.env
+project_init.ps1
